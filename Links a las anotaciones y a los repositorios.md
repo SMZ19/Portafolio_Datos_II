@@ -1,3 +1,6 @@
+**Anotaciones**
+https://drive.google.com/open?id=18Z_v9tfltlEv4tN9dy7f-wuMd8S_NtFY
+
 **Tarea Extraclase #1:**
 https://github.com/SMZ19/Sockets
 
